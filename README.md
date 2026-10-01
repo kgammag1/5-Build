@@ -8,7 +8,7 @@ The Indie Film Collective is a multi-page website used to collaborate a communit
 - Collaborations
 
 # Website Link
-
+https://kgammag1.github.io/5-Build/
 
 # AI Use Statement
 The use of AI tools such as ChatGPT were used in the written content portion of this website. All HTML and CSS was written by Kenny Gammage.
